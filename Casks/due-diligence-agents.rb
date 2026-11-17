@@ -1,6 +1,6 @@
 cask "due-diligence-agents" do
-  version "1.22.2"
-  sha256 "c70e12d605f6004bccfa636409bf98bd1faeb2dc9f9812ce9895b9b96029dfdb"
+  version "1.22.3"
+  sha256 "2d1bec03deb508c0b62c8a43453b5cbf9bcb318ae524da6356f6e2a25ef79ec6"
 
   url "https://github.com/zoharbabin/due-diligence-agents/releases/download/v#{version}/due-diligence-agents_#{version}_aarch64.dmg"
   name "Due Diligence Agents"
